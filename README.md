@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá me chamo Gilberto Belo
 
 <!--
 **Gilbeloz/Gilbeloz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-Atualmente estou estudando : Html, Css e Javascript.
